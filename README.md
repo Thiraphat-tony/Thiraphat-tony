@@ -2,7 +2,7 @@
   <img src="./assets/banner.png" alt="Thiraphat banner" width="100%" />
 </p>
 
-<h1 align="center">Thiraphat (Tony) Sueaintho 👾</h1>
+<h1 align="center">Thiraphat Sueaintho (Tony) 👾</h1>
 
 <p align="center">
   <strong>Game Developer (UE5) • VR / Interactive Media • Systems & Tools</strong><br/>
