@@ -1,40 +1,79 @@
-# Thiraphat (Tony) Sueaintho 👾
-**Game Developer (UE5) • VR/Interactive Media • Systems & Tools**
+<p align="center">
+  <img src="./assets/banner.png" alt="Thiraphat banner" width="100%" />
+</p>
 
-I build **gameplay prototypes**, **VR interactions**, and **production-grade web systems**.
-Currently: **Seminar Check-in System (Next.js + Supabase) for ~1,400 attendees** + UE5/VR experiments.
+<h1 align="center">Thiraphat (Tony) Sueaintho 👾</h1>
+
+<p align="center">
+  <strong>Game Developer (UE5) • VR / Interactive Media • Systems & Tools</strong><br/>
+  Building gameplay prototypes, VR interactions, and production-grade systems.
+</p>
+
+<p align="center">
+  <a href="https://github.com/thiraphat_tony">GitHub</a> •
+  <a href="https://your-portfolio-link">Portfolio</a> •
+  <a href="https://your-itch-link">itch.io</a> •
+  <a href="mailto:your@email.com">Email</a>
+</p>
 
 ---
 
-## ⭐ Featured
-- **Seminar Check-in / Attendee Management System** — registration, QR check-in, admin dashboard, Excel export (Next.js + Supabase)
-- **UE5 Gameplay Prototype (WIP)** — combat feel, camera/lock-on, input & animation experiments
-- **VR Interaction Experiments (WIP)** — grab/interaction patterns & UX testing
-
-> Demo / Video: (add YouTube / itch.io / GitHub Releases link)
+## About Me
+- 🎮 Interested in **game development** and **VR / Interactive Media**
+- 🧩 Enjoy building **systems**, **tools**, and **clean workflows**
+- 🧠 Strong focus on usability and real-world constraints (including accessibility / elder-friendly UI)
 
 ---
 
-## 🧰 Tech Stack
+## Featured Projects
+### ✅ Production / Real Operations
+- **Seminar Check-in System (Next.js + Supabase)**  
+  Built for real seminar operations: registration → QR attendee page → admin dashboard → export workflows  
+  Repo: https://github.com/thiraphat_tony/seminar-checkin
+
+### 🎮 Game / VR (WIP / Coming soon)
+- **UE5 Gameplay Prototype (WIP)** — combat feel, camera/lock-on, input + animation experiments  
+  Repo: (add link)
+- **VR Interaction Experiments (WIP)** — grab/interaction patterns, UX testing  
+  Repo: (add link)
+
+> Tip: If you have a short demo video, add it here — it boosts credibility instantly.
+
+---
+
+## Tech Stack
 **Game / VR**
 - Unreal Engine 5 (learning & prototyping)
-- VR Interaction Design, UX for accessibility
+- VR interaction & UX thinking
 
 **Web / Backend**
 - Next.js (App Router), TypeScript
-- Supabase (Postgres, Storage, Auth), Vercel
-- PDF/Excel export workflows for real operations
+- Supabase (Postgres, Storage, Auth)
+- Deployment: Vercel / Docker (as needed)
 
 ---
 
-## ✅ Highlights (real-world)
-- Built a check-in system designed for large events (~1,400 attendees)
-- Focused on usability (elder-friendly UI), data accuracy, and export-ready workflows
-- Comfortable with iterative development and production constraints
+## Highlights
+- ✅ Built a scalable check-in system designed for large events (~1,400 attendees)
+- ✅ Admin workflows: search/filter, check-in controls, slip handling, export-ready outputs
+- ✅ Iterative engineering: shipping features, refining UX, and improving reliability
 
 ---
 
-## 📫 Contact
-- Email: your@email.com
-- Portfolio: https://(your-portfolio-link)
-- itch.io: https://(your-itch-link)
+## What I’m focusing on now
+- Combat feel & responsiveness (timing, feedback, camera rules)
+- VR interaction patterns & usability
+- System reliability for real events (load testing, backup workflows, clarity-first UI)
+
+---
+
+## Contact
+- Email: your@email.com  
+- Portfolio: https://your-portfolio-link  
+- itch.io: https://your-itch-link  
+
+---
+
+<p align="center">
+  <sub>“Build systems. Ship prototypes. Iterate until it feels right.”</sub>
+</p>
