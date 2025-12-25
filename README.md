@@ -37,7 +37,6 @@
 - **VR Interaction Experiments (WIP)** — grab/interaction patterns, UX testing  
   Repo: (add link)
 
-> Tip: If you have a short demo video, add it here — it boosts credibility instantly.
 
 ---
 
