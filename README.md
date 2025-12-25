@@ -68,9 +68,9 @@
 ---
 
 ## Contact
-- Email: your@email.com  
-- Portfolio: https://your-portfolio-link  
-- itch.io: https://your-itch-link  
+- Email: thiraphat.sueaintho@gmail.com  
+- fastwork: https://fastwork.co/user/tony0507
+
 
 ---
 
