@@ -75,5 +75,5 @@
 ---
 
 <p align="center">
-  <sub>“Build systems. Ship prototypes. Iterate until it feels right.”</sub>
+  <sub>“Full Dive won’t remain fiction — I’ll make it real.”</sub>
 </p>
